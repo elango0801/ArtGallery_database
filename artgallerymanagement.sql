@@ -1,3 +1,8 @@
+--create a artgallery management system 
+
+create database artgallery;
+
+-- use database
 use artgallery;
 
 -- Table structure for table admin
