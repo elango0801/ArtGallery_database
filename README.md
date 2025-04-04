@@ -64,7 +64,7 @@ The `artgallerymanagement.sql` file includes:
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/art-gallery-management.git
+   https://github.com/elango0801/ArtGallery_database.git
    ```
 
 2. Import `artgallerymanagement.sql` into your MySQL server.
